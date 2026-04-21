@@ -1,0 +1,7 @@
+mydb.db
+*.db
+venv/
+__pycache__/
+*.pyc
+/tmp/
+logs/
